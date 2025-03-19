@@ -5,7 +5,8 @@ _Read this in other languages:_
 
 <p align="center">
  <a href="#tech">Tecnologias</a> • 
- <a href="#started">Iniciando o projeto</a> 
+ <a href="#started">Iniciando o projeto</a> • 
+ <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -29,3 +30,7 @@ _Read this in other languages:_
 git clone https://github.com/gabrielasams/App-Python.git
 ```
 2. Run no Terminal.
+
+<h2 id="license">Licença 📃 </h2>
+
+Esse projeto está protegido sob a licença do [MIT](LICENSE)

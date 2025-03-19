@@ -2,7 +2,8 @@
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
- <a href="#started">Started</a> 
+ <a href="#started">Started</a> • 
+ <a href="#license">License</a>
 </p>
 
 <p align="center">
@@ -26,3 +27,7 @@
 git clone https://github.com/gabrielasams/App-Python.git
 ```
 2. Run on Terminal.
+
+<h2 id="license">License 📃 </h2>
+
+This project is under [MIT](LICENSE) license
