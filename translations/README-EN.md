@@ -30,4 +30,4 @@ git clone https://github.com/gabrielasams/App-Python.git
 
 <h2 id="license">License 📃 </h2>
 
-This project is under [MIT](./LICENSE) license
+This project is under [MIT](LICENSE) license
